@@ -1,0 +1,24 @@
+html,body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-transform:uppercase;
+    font-family:arial;
+    text-align:center;
+  }
+  
+  button{
+    padding:8px 5em;
+    font-size:1em;
+    border:none;
+    color:#fff;
+    background:#959405;
+    cursor:pointer;
+    box-shadow:10px 3px 1px #000;
+  }
+  
+  
